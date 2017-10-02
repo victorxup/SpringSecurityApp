@@ -7,6 +7,7 @@ import javax.persistence.*;
 import java.sql.Date;
 import lombok.Data;
 
+
 @Data
 @Entity
 @Table(name = "passengers")
